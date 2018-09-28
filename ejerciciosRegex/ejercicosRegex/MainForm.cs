@@ -116,7 +116,7 @@ namespace ejercicosRegex
 					regexMethod(@"(http://|https://)[a-zA-Z0-9(\.)]{1,}[^\s](com|mx|net)");
 					break;
 				case 9:
-					//Códigos postales.	Ejemplo: CP xxxxx cp xxxxx CP 99764 para méxico
+					//Códigos postales.	Ejemplo: CP xxxxx cp xxxxx CP 99670 para méxico
 					regexMethod(@"(CP|cp)[\s][0-9]{5}");
 					break;
 			}
