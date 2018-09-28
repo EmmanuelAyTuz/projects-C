@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A3F4C561-2130-436B-B70F-150F875F94CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ejercicosRegex/MainForm.cs">
+    <Files>
+      <File FileName="ejercicosRegex/MainForm.cs" Line="83" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ejercicosRegex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

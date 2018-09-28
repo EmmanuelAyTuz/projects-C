@@ -1,0 +1,16 @@
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.exe.config
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.exe
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.pdb
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.MainForm.resources
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.csproj.GenerateResource.Cache
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.exe
+C:\Users\Emmanuel Ay Tuz\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.pdb
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.exe.config
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.exe
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\bin\Debug\ejercicosRegex.pdb
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.csprojResolveAssemblyReference.cache
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.MainForm.resources
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.csproj.GenerateResource.Cache
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.exe
+F:\Documents\SharpDevelop Projects\ejercicosRegex\ejercicosRegex\obj\Debug\ejercicosRegex.pdb
