@@ -104,11 +104,11 @@ namespace ejercicosRegex
 					regexMethod(@"[\s]\d{2}\/\d{2}\/\d{4}[^a-zA-Z]");
 					break;
 				case 6:
-					//Telefonos. Ejemplo: (+xx) xxxxxxxxxx (+52) 9851105508
+					//Telefonos. Ejemplo: (+xx) xxxxxxxxxx (+52) 9851119999
 					regexMethod(@"(\()\+\d{2}(\))(\d|\s\d){10}");
 					break;
 				case 7:
-					//Correos electrónicos. Ejemplo: emmanuel.aytuz@itva.edu.mx [a-zA-Z0-9(\.)]{1,}(\@)[a-zA-Z0-9(\.)]{1,}
+					//Correos electrónicos. Ejemplo: emmanuel@itva.edu.mx [a-zA-Z0-9(\.)]{1,}(\@)[a-zA-Z0-9(\.)]{1,}
 					regexMethod(@"[a-zA-Z0-9.]+[^.]@[a-zA-Z0-9]+(\.)[a-z]+");
 					break;
 				case 8:
