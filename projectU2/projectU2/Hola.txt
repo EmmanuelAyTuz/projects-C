@@ -1,0 +1,5 @@
+El programa Hola Hola Hola Mundo Mundo Mundo es el PRIMER programa
+que se realiza como Introduccion al mundo de la PROGRAMACION.
+Expresion matematicas es 2x + 3x = 5x si x = 2 la formula es 2 * 2 + 3 * 2 = 5 * 2 
+reduciendo es 4 + 6 = 10 o 10 = 10
+Regex
